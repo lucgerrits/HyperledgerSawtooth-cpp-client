@@ -1,0 +1,8 @@
+*.out
+*.out.*
+app
+# .vscode/
+*.o
+*.stats
+*.proto
+protos_pb_h/
